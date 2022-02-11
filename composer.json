@@ -1,0 +1,13 @@
+{
+    "name": "matt/pdf_split_and_parse",
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.3",
+        "smalot/pdfparser": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Matt\\PdfSplitAndParse\\": "src/"
+        }
+    }
+}
